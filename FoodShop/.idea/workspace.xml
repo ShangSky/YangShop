@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e0fe016-a7a7-42f0-83fd-2f3cdb0cbaa4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/FoodShop$generate_captcha.coverage" NAME="generate_captcha Coverage Results" MODIFIED="1556896965353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="foodshop@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="foodshop@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="foodshop@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="foodshop: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>FLoatField</find>
+      <find>page_</find>
+      <find>utf-8</find>
+      <find>required</find>
+      <find>get_pe</find>
+      <find>has</find>
+      <find>has_permission</find>
+      <find>request</find>
+      <find>context</find>
+      <find>update</find>
+      <find>create</find>
+      <find>OrderGoodsSerializer</find>
+      <find>chunk-4f25bb94.3f7bd713</find>
+      <find>order_goods[&quot;order&quot;]</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/db/BaseModel.py" />
+        <option value="$PROJECT_DIR$/db/base_model.py" />
+        <option value="$PROJECT_DIR$/apps/users/admin.py" />
+        <option value="$PROJECT_DIR$/apps/goods/apps.py" />
+        <option value="$PROJECT_DIR$/apps/operations/apps.py" />
+        <option value="$PROJECT_DIR$/apps/trade/apps.py" />
+        <option value="$PROJECT_DIR$/apps/users/apps.py" />
+        <option value="$PROJECT_DIR$/apps/goods/serizers.py" />
+        <option value="$USER_HOME$/Envs/FoodShop/Lib/site-packages/django/views/debug.py" />
+        <option value="$PROJECT_DIR$/utils/generate_captcha.py" />
+        <option value="$PROJECT_DIR$/apps/goods/filters.py" />
+        <option value="$PROJECT_DIR$/apps/goods/admin.py" />
+        <option value="$PROJECT_DIR$/apps/operations/admin.py" />
+        <option value="$PROJECT_DIR$/apps/trade/admin.py" />
+        <option value="$PROJECT_DIR$/apps/goods/serializers.py" />
+        <option value="$PROJECT_DIR$/apps/operations/models.py" />
+        <option value="$PROJECT_DIR$/apps/operations/serializers.py" />
+        <option value="$PROJECT_DIR$/apps/goods/models.py" />
+        <option value="$PROJECT_DIR$/apps/users/models.py" />
+        <option value="$PROJECT_DIR$/utils/generate_order_num.py" />
+        <option value="$PROJECT_DIR$/apps/goods/views.py" />
+        <option value="$PROJECT_DIR$/apps/trade/models.py" />
+        <option value="$PROJECT_DIR$/apps/trade/filters.py" />
+        <option value="$PROJECT_DIR$/utils/alipay.py" />
+        <option value="$PROJECT_DIR$/apps/trade/serializers.py" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/FoodShop/urls.py" />
+        <option value="$PROJECT_DIR$/templates/a.html" />
+        <option value="$PROJECT_DIR$/apps/trade/views.py" />
+        <option value="$PROJECT_DIR$/apps/users/views.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/apps/users/serializers.py" />
+        <option value="$PROJECT_DIR$/apps/operations/views.py" />
+        <option value="$PROJECT_DIR$/utils/alipay_config.py" />
+        <option value="$PROJECT_DIR$/utils/sms_code.py" />
+        <option value="$PROJECT_DIR$/FoodShop/settings.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1350" />
+    <option name="height" value="690" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FoodShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FoodShop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoodShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FoodShop" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoodShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FoodShop" type="462c0819:PsiDirectoryNode" />
+              <item name="FoodShop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoodShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FoodShop" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/test" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\django_file\FoodShop\templates" />
+      <recent name="E:\django_file\FoodShop\static" />
+      <recent name="E:\django_file\FoodShop\apps" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\django_file\FoodShop\static" />
+      <recent name="E:\django_file\FoodShop\templates" />
+      <recent name="E:\django_file\FoodShop\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.FoodShop">
+    <configuration name="generate_captcha" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FoodShop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/generate_captcha.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FoodShop" type="Python.DjangoServer" factoryName="Django server">
+      <module name="FoodShop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="FoodShop.settings" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\t_c_y\Envs\FoodShop\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.FoodShop" />
+      <item itemvalue="Python.generate_captcha" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.generate_captcha" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e0fe016-a7a7-42f0-83fd-2f3cdb0cbaa4" name="Default Changelist" comment="" />
+      <created>1556444069788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556444069788</updated>
+      <workItem from="1556444072249" duration="5169000" />
+      <workItem from="1556452375239" duration="7792000" />
+      <workItem from="1556507350710" duration="5742000" />
+      <workItem from="1556524755520" duration="16447000" />
+      <workItem from="1556592168628" duration="3217000" />
+      <workItem from="1556600569492" duration="17978000" />
+      <workItem from="1556675305623" duration="5053000" />
+      <workItem from="1556720081171" duration="1272000" />
+      <workItem from="1556766776529" duration="10394000" />
+      <workItem from="1556849539220" duration="244000" />
+      <workItem from="1556858566014" duration="17037000" />
+      <workItem from="1556937615714" duration="37492000" />
+      <workItem from="1557023046500" duration="17547000" />
+      <workItem from="1557102738240" duration="29829000" />
+      <workItem from="1557199458631" duration="17296000" />
+      <workItem from="1557279838406" duration="11691000" />
+      <workItem from="1557366368906" duration="29884000" />
+      <workItem from="1557450599697" duration="21181000" />
+      <workItem from="1557538016674" duration="32369000" />
+      <workItem from="1557631652460" duration="13135000" />
+      <workItem from="1557663567361" duration="2446000" />
+      <workItem from="1557670684741" duration="3521000" />
+      <workItem from="1557710406613" duration="2630000" />
+      <workItem from="1557734524683" duration="2175000" />
+      <workItem from="1557739213091" duration="740000" />
+      <workItem from="1557804556426" duration="2106000" />
+      <workItem from="1557819146742" duration="2477000" />
+      <workItem from="1558764050440" duration="88000" />
+      <workItem from="1558939922793" duration="1761000" />
+      <workItem from="1558941893024" duration="1119000" />
+      <workItem from="1559023226143" duration="826000" />
+      <workItem from="1560230761975" duration="1952000" />
+      <workItem from="1560511231585" duration="2375000" />
+      <workItem from="1560583434402" duration="948000" />
+      <workItem from="1560595208627" duration="336000" />
+      <workItem from="1560609606164" duration="664000" />
+      <workItem from="1560669449645" duration="1823000" />
+      <workItem from="1560698308195" duration="356000" />
+      <workItem from="1560754449648" duration="619000" />
+      <workItem from="1560919032143" duration="245000" />
+      <workItem from="1560919879511" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="329998000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.32107022" visible="true" weight="0.2613941" />
+      <window_info id="Structure" order="1" sideWeight="0.67892975" side_tool="true" weight="0.18766756" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26522326" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34404284" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32931727" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.26907632" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="manage.py@FoodShop" order="13" weight="0.394913" />
+      <window_info anchor="bottom" id="File Transfer" order="14" weight="0.32928476" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3299866" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32908848" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/apps/trade/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="24" column="65" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/operations/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/users/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="31" column="18" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#167#906#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/operations/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/FoodShop/Lib/site-packages/django/forms/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#51#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/FoodShop/Lib/site-packages/django/forms/widgets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2558">
+          <caret line="670" column="27" selection-start-line="670" selection-start-column="27" selection-end-line="670" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#27#1" />
+            <element signature="e#773#1230#0" />
+            <element signature="e#1317#1321#0" />
+            <element signature="e#1352#5288#0" />
+            <element signature="e#1411#1698#0" />
+            <element signature="e#1445#1518#0" />
+            <element signature="e#1545#1636#0" />
+            <element signature="e#1732#1785#0" />
+            <element signature="e#1818#1838#0" />
+            <element signature="e#1882#2120#0" />
+            <element signature="e#1959#2043#0" />
+            <element signature="e#2163#2197#0" />
+            <element signature="e#2229#2336#0" />
+            <element signature="e#2371#2559#0" />
+            <element signature="e#2378#2559#0" />
+            <element signature="e#2595#3038#0" />
+            <element signature="e#2595#2668#0" />
+            <element signature="e#2808#3017#0" />
+            <element signature="e#2808#3037#0" />
+            <element signature="e#3083#3431#0" />
+            <element signature="e#3083#3321#1" />
+            <element signature="e#3474#3701#0" />
+            <element signature="e#3752#5079#0" />
+            <element signature="e#3752#4142#1" />
+            <element signature="e#4274#4698#0" />
+            <element signature="e#4302#4364#0" />
+            <element signature="e#4526#4698#0" />
+            <element signature="e#4834#5079#0" />
+            <element signature="e#5119#5288#0" />
+            <element signature="e#5320#6079#0" />
+            <element signature="e#5346#6051#0" />
+            <element signature="e#5677#6031#0" />
+            <element signature="e#5761#5994#0" />
+            <element signature="e#5851#5949#0" />
+            <element signature="e#6118#6430#0" />
+            <element signature="e#6118#6188#1" />
+            <element signature="e#6239#6430#0" />
+            <element signature="e#6481#9315#0" />
+            <element signature="e#6688#6738#0" />
+            <element signature="e#6782#6889#0" />
+            <element signature="e#6938#7014#0" />
+            <element signature="e#7075#7153#0" />
+            <element signature="e#7198#7455#0" />
+            <element signature="e#7198#7285#1" />
+            <element signature="e#7512#7850#0" />
+            <element signature="e#7553#7827#0" />
+            <element signature="e#7922#8086#0" />
+            <element signature="e#8158#8290#0" />
+            <element signature="e#8357#8446#0" />
+            <element signature="e#8510#8684#0" />
+            <element signature="e#8510#8654#1" />
+            <element signature="e#8752#8775#0" />
+            <element signature="e#8818#9233#0" />
+            <element signature="e#8818#9214#1" />
+            <element signature="e#9290#9315#0" />
+            <element signature="e#9343#9394#1" />
+            <element signature="e#9548#9699#0" />
+            <element signature="e#9582#9667#0" />
+            <element signature="e#9756#9880#0" />
+            <element signature="e#9911#9983#0" />
+            <element signature="e#10016#10092#0" />
+            <element signature="e#10124#10198#0" />
+            <element signature="e#10228#10298#0" />
+            <element signature="e#10333#10705#0" />
+            <element signature="e#10479#10543#0" />
+            <element signature="e#10600#10705#0" />
+            <element signature="e#10738#10814#0" />
+            <element signature="e#10861#12112#0" />
+            <element signature="e#10861#10948#1" />
+            <element signature="e#11069#11839#0" />
+            <element signature="e#11324#11762#0" />
+            <element signature="e#11394#11589#0" />
+            <element signature="e#11394#11454#0" />
+            <element signature="e#11903#12030#0" />
+            <element signature="e#12075#12112#0" />
+            <element signature="e#12143#12578#0" />
+            <element signature="e#12292#12346#0" />
+            <element signature="e#12410#12486#0" />
+            <element signature="e#12554#12578#0" />
+            <element signature="e#12660#15139#0" />
+            <element signature="e#12876#13017#0" />
+            <element signature="e#12876#12986#1" />
+            <element signature="e#13066#13188#0" />
+            <element signature="e#13066#13160#1" />
+            <element signature="e#13231#13370#0" />
+            <element signature="e#13231#13310#1" />
+            <element signature="e#13415#13556#0" />
+            <element signature="e#13415#13496#1" />
+            <element signature="e#13613#14133#0" />
+            <element signature="e#13811#14109#0" />
+            <element signature="e#14197#14812#0" />
+            <element signature="e#14401#14790#0" />
+            <element signature="e#14428#14684#0" />
+            <element signature="e#14428#14488#0" />
+            <element signature="e#14869#14931#0" />
+            <element signature="e#14999#15139#0" />
+            <element signature="e#15170#15470#0" />
+            <element signature="e#15268#15470#0" />
+            <element signature="e#15513#15817#0" />
+            <element signature="e#15621#15681#0" />
+            <element signature="e#15726#15817#0" />
+            <element signature="e#15860#15946#0" />
+            <element signature="e#15993#16087#0" />
+            <element signature="e#16130#16216#0" />
+            <element signature="e#16315#16362#0" />
+            <element signature="e#16397#17941#0" />
+            <element signature="e#16540#16772#0" />
+            <element signature="e#16572#16634#0" />
+            <element signature="e#16817#16999#0" />
+            <element signature="e#17056#17230#0" />
+            <element signature="e#17095#17175#0" />
+            <element signature="e#17294#17729#0" />
+            <element signature="e#17327#17473#0" />
+            <element signature="e#17327#17394#0" />
+            <element signature="e#17797#17941#0" />
+            <element signature="e#17797#17864#0" />
+            <element signature="e#17976#22311#0" />
+            <element signature="e#18243#18484#0" />
+            <element signature="e#18275#18343#0" />
+            <element signature="e#18528#18681#0" />
+            <element signature="e#18742#18976#0" />
+            <element signature="e#18742#18883#1" />
+            <element signature="e#19034#19175#0" />
+            <element signature="e#19235#20409#0" />
+            <element signature="e#19423#20387#0" />
+            <element signature="e#19581#19674#0" />
+            <element signature="e#19709#19815#0" />
+            <element signature="e#19937#20387#0" />
+            <element signature="e#20512#21248#0" />
+            <element signature="e#20933#21248#0" />
+            <element signature="e#21305#21474#0" />
+            <element signature="e#21528#21744#0" />
+            <element signature="e#21528#21646#1" />
+            <element signature="e#21808#22005#0" />
+            <element signature="e#21879#21977#0" />
+            <element signature="e#22050#22311#0" />
+            <element signature="e#22346#23579#0" />
+            <element signature="e#22650#22821#0" />
+            <element signature="e#22890#23024#0" />
+            <element signature="e#23081#23579#0" />
+            <element signature="e#23081#23195#1" />
+            <element signature="e#23619#24642#0" />
+            <element signature="e#23619#23693#1" />
+            <element signature="e#23738#23903#0" />
+            <element signature="e#23762#23852#0" />
+            <element signature="e#23948#24252#0" />
+            <element signature="e#23965#24198#0" />
+            <element signature="e#23972#24191#0" />
+            <element signature="e#24316#24642#0" />
+            <element signature="e#24354#24631#0" />
+            <element signature="e#24679#25115#0" />
+            <element signature="e#24773#24900#0" />
+            <element signature="e#24968#25115#0" />
+            <element signature="e#24968#25038#0" />
+            <element signature="e#25155#25297#0" />
+            <element signature="e#25348#26257#0" />
+            <element signature="e#25598#25760#0" />
+            <element signature="e#25598#25667#0" />
+            <element signature="e#25828#25972#0" />
+            <element signature="e#25828#25895#0" />
+            <element signature="e#26027#26257#0" />
+            <element signature="e#26027#26161#1" />
+            <element signature="e#26291#29505#0" />
+            <element signature="e#26291#26626#1" />
+            <element signature="e#26741#26840#0" />
+            <element signature="e#26889#26934#0" />
+            <element signature="e#26991#28175#0" />
+            <element signature="e#27083#27166#0" />
+            <element signature="e#27175#27234#0" />
+            <element signature="e#27568#28099#0" />
+            <element signature="e#27848#27937#0" />
+            <element signature="e#28218#28268#0" />
+            <element signature="e#28332#28439#0" />
+            <element signature="e#28507#28655#0" />
+            <element signature="e#28531#28645#0" />
+            <element signature="e#28698#28957#0" />
+            <element signature="e#28698#28881#1" />
+            <element signature="e#28993#29211#0" />
+            <element signature="e#28993#29099#1" />
+            <element signature="e#29288#29389#0" />
+            <element signature="e#29449#29505#0" />
+            <element signature="e#29552#30363#0" />
+            <element signature="e#29552#29639#1" />
+            <element signature="e#29851#30188#0" />
+            <element signature="e#29875#30144#0" />
+            <element signature="e#30231#30363#0" />
+            <element signature="e#30253#30335#0" />
+            <element signature="e#30424#30848#0" />
+            <element signature="e#30424#30514#1" />
+            <element signature="e#30698#30848#0" />
+            <element signature="e#30887#37083#0" />
+            <element signature="e#30887#31091#1" />
+            <element signature="e#31459#32568#0" />
+            <element signature="e#31635#31731#0" />
+            <element signature="e#32029#32308#0" />
+            <element signature="e#32335#32568#0" />
+            <element signature="e#32625#34249#0" />
+            <element signature="e#34294#35374#0" />
+            <element signature="e#34294#34501#1" />
+            <element signature="e#34727#35316#0" />
+            <element signature="e#34799#34976#0" />
+            <element signature="e#34799#34860#0" />
+            <element signature="e#35029#35316#0" />
+            <element signature="e#35429#35812#0" />
+            <element signature="e#35522#35812#0" />
+            <element signature="e#35855#35979#0" />
+            <element signature="e#36043#36884#0" />
+            <element signature="e#36298#36854#0" />
+            <element signature="e#36336#36689#0" />
+            <element signature="e#36581#36689#0" />
+            <element signature="e#36702#36765#0" />
+            <element signature="e#36952#37083#0" />
+            <element signature="e#36980#37073#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/FoodShop/Lib/site-packages/rest_framework/relations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="251" column="8" selection-start-line="251" selection-start-column="8" selection-end-line="251" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/FoodShop/Lib/site-packages/django/contrib/auth/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="288" column="6" selection-start-line="288" selection-start-column="6" selection-end-line="288" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/FoodShop/Lib/site-packages/django/db/models/query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="884" selection-start-line="884" selection-end-line="884" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/FoodShop/Lib/site-packages/rest_framework/generics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="773">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/FoodShop/Lib/site-packages/django/utils/deprecation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/FoodShop/Lib/site-packages/django/core/handlers/exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/FoodShop/Lib/site-packages/django/core/handlers/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="146" selection-start-line="146" selection-end-line="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/FoodShop/Lib/site-packages/django/views/decorators/csrf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/FoodShop/Lib/site-packages/rest_framework/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="497" selection-start-line="497" selection-end-line="497" />
+          <folding>
+            <element signature="e#83#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/FoodShop/Lib/site-packages/django/contrib/auth/base_user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="96" column="8" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/trade/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/FoodShop/Lib/site-packages/rest_framework/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="1169" column="9" lean-forward="true" selection-start-line="1169" selection-start-column="9" selection-end-line="1169" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/FoodShop/Lib/site-packages/rest_framework/mixins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+          <folding>
+            <element signature="e#178#217#0" expanded="true" />
+            <element signature="e#1554#1775#0" />
+            <element signature="e#2724#3017#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/trade/filters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1760520053/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="3159" column="8" selection-start-line="3159" selection-start-column="8" selection-end-line="3159" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/FoodShop/Lib/site-packages/alipay/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3725">
+          <caret line="256" column="8" selection-start-line="256" selection-start-column="8" selection-end-line="256" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/FoodShop/Lib/site-packages/rest_framework/fields.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1117">
+          <caret line="1415" column="8" selection-start-line="1415" selection-start-column="8" selection-end-line="1415" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/favicon.ico" />
+    <entry file="file://$PROJECT_DIR$/templates/index.html" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f16e3b71-2577-4b0a-968d-77aa7f7f0e9a/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/FoodShop/Lib/site-packages/rest_framework/response.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding>
+            <element signature="e#240#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/trade/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-828">
+          <caret line="29" column="70" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="70" />
+          <folding>
+            <element signature="e#102#585#0" />
+            <element signature="e#390#497#0" />
+            <element signature="e#530#585#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/FoodShop/Lib/site-packages/rest_framework/exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="149" column="24" lean-forward="true" selection-start-line="149" selection-start-column="24" selection-end-line="149" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoodShop/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/apps/users/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2304">
+          <caret line="76" column="25" selection-end-line="85" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+            <element signature="e#838#1125#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/FoodShop/Lib/site-packages/rest_framework/viewsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="209" column="52" selection-start-line="209" selection-start-column="34" selection-end-line="209" selection-end-column="52" />
+          <folding>
+            <element signature="e#676#715#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="7" column="29" selection-end-line="28" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/operations/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="5" selection-end-line="38" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/trade/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="98" column="33" selection-end-line="141" />
+          <folding>
+            <element signature="e#380#1719#0" />
+            <element signature="e#690#1053#0" />
+            <element signature="e#1101#1565#0" />
+            <element signature="e#1334#1448#0" />
+            <element signature="e#1623#1719#0" />
+            <element signature="e#1789#1952#0" />
+            <element signature="e#1887#1952#0" />
+            <element signature="e#2016#2137#0" />
+            <element signature="e#2036#2137#0" />
+            <element signature="e#2807#2978#0" />
+            <element signature="e#3004#3154#0" />
+            <element signature="e#3222#3305#0" />
+            <element signature="e#3242#3305#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/users/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1705">
+          <caret line="96" column="20" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#191#1549#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/filters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/a.html" />
+    <entry file="file://$PROJECT_DIR$/apps/trade/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/generate_captcha.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/operations/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="21" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoodShop/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1692">
+          <caret line="79" column="17" selection-start-line="79" selection-start-column="17" selection-end-line="79" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/alipay_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/generate_order_num.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/sms_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#24#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
