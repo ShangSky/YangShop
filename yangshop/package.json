@@ -10,7 +10,7 @@
   "dependencies": {
     "clipboard": "^2.0.4",
     "core-js": "^2.6.5",
-    "vant": "^1.6.15",
+    "vant": "^2.1.8",
     "vue": "^2.6.10",
     "vue-resource": "^1.5.1",
     "vue-router": "^3.0.3",
